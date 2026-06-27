@@ -73,7 +73,7 @@ This project is licensed under the MIT License.
 
 **Shubhodip Ghoshal**
 
-GitHub: https://github.com/Shubo89
+GitHub: https://github.com/Shubo98
 
 ---
 
